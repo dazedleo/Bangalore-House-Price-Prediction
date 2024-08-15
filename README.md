@@ -1,2 +1,4 @@
 # Bangalore-House-Price-Prediction
-It is a flask web app which predicts the price of houses dependent on some features.
+Developed a Bangalore house price prediction app using Python, leveraging linear regression for accurate forecasting. Enhanced model performance
+through data preprocessing and feature engineering. 
+Skills used - Python,Data Analytics,Data Visualization,Numpy,Pandas,Seaborn,Scikit-Learn,Flask Web Framework
